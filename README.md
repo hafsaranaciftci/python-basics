@@ -1,4 +1,4 @@
-# Phyton-Basics
+# Python-Basics
 Bu repo, Python öğrenme sürecimde yaptığım temel alıştırmaları ve küçük örnekleri içermektedir.
 ## İçerik
 - Değişkenler
